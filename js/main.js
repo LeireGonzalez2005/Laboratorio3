@@ -21,7 +21,7 @@ window.onload = function gestionarEventos(){
 
     }
 
-    let listaDesplegable = document.getElementById()
+    let listaDesplegable = document.getElementById("GoMenuForm")
 
 function pulsadoConsola(){
     alert("Se ha pulsado la imagen principal de la web")
